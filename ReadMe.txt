@@ -1,0 +1,1 @@
+visualation folder contains tabular display of our data.these pages can be viewed on Vscode liveserver or similiar server.
